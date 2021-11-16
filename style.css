@@ -1,5 +1,5 @@
 body {
-  background-color: #242f44;
+  background-color: #900C3F;
   color: white;
   font-family: 'Oswald', sans-serif;
 }
@@ -12,7 +12,7 @@ header {
 h1 {
   font-size: 36;
   padding: 15px;
-  color: #8c6b48;
+  color: #581845 ;
   background-color: white;
 }
 
@@ -34,7 +34,7 @@ h3 {
 }
 
 th {
-  border: 2px solid #8c6b48;
+  border: 2px solid #FFC300 ;
 }
 
 table {
@@ -43,28 +43,27 @@ table {
 }
 
 td {
-  border: 2px solid #8c6b48;
+  border: 2px solid #FFC300 ;
   width: 300px;
 }
 
 footer {
-  margin-top: 50px;
   text-align: center;
-  position: fixed;
+  margin-top: auto;
   width: 100%;
-  bottom: 5px;
-  background-color: #242f44;
   z-index: 5;
+  background-color: #581845 ;
+  bottom: 5px;
 }
 footer h3 {
   display: inline-block;
   font-size: 14px;
-  background-color: #242f44;
 }
 .container {
   max-width: 940px;
   margin: 0 auto;
   height: 800px;
+  margin-bottom: 8em;
 }
 
 .left {
